@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/userauthhashtagca/static/css/main.f509084f.chunk.css",
+    "main.js": "/userauthhashtagca/static/js/main.69604bf0.chunk.js",
+    "main.js.map": "/userauthhashtagca/static/js/main.69604bf0.chunk.js.map",
+    "runtime-main.js": "/userauthhashtagca/static/js/runtime-main.ee3d9c81.js",
+    "runtime-main.js.map": "/userauthhashtagca/static/js/runtime-main.ee3d9c81.js.map",
+    "static/css/2.d45d6843.chunk.css": "/userauthhashtagca/static/css/2.d45d6843.chunk.css",
+    "static/js/2.5c4ddfea.chunk.js": "/userauthhashtagca/static/js/2.5c4ddfea.chunk.js",
+    "static/js/2.5c4ddfea.chunk.js.map": "/userauthhashtagca/static/js/2.5c4ddfea.chunk.js.map",
+    "static/js/3.759d132e.chunk.js": "/userauthhashtagca/static/js/3.759d132e.chunk.js",
+    "static/js/3.759d132e.chunk.js.map": "/userauthhashtagca/static/js/3.759d132e.chunk.js.map",
+    "index.html": "/userauthhashtagca/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/userauthhashtagca/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.f509084f.chunk.css.map": "/userauthhashtagca/static/css/main.f509084f.chunk.css.map",
+    "static/js/2.5c4ddfea.chunk.js.LICENSE.txt": "/userauthhashtagca/static/js/2.5c4ddfea.chunk.js.LICENSE.txt",
+    "static/media/logo.c4ba8d22.png": "/userauthhashtagca/static/media/logo.c4ba8d22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3d9c81.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.5c4ddfea.chunk.js",
+    "static/css/main.f509084f.chunk.css",
+    "static/js/main.69604bf0.chunk.js"
+  ]
+}
